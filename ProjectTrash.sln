@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C25F4E5E-12B8-481E-B6C6-A049A6790091}"
+	ProjectSection(SolutionItems) = preProject
+		scripts\script.js = scripts\script.js
+		styles\style.css = styles\style.css
+		TrashCleaner.html = TrashCleaner.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
